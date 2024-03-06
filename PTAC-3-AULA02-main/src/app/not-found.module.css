@@ -1,0 +1,5 @@
+.texto{
+    display: flex;
+    height: 50px;
+    background-color: rgb(196, 60, 60);
+}
